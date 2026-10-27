@@ -39,3 +39,21 @@ h2 {
 	margin-bottom: 0;
 	letter-spacing 1px;
 }
+section h2 + p {
+	text-indent: 2rem;
+}
+p,
+li {
+	line-height: 1.6;
+	letter-spacing: 0.5px;
+}
+a {
+	outline: none;
+}
+a[href*="hhtp"] {
+	padding-right: 16px;
+	background: url("external=link=52.png") no-repeat right center;
+	background-size: 14px 14px;
+}
+
+	
