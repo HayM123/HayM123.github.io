@@ -1,3 +1,16 @@
 html {
 	font-family: "IBM Plex Serif", serif;
 }
+h1,
+h2 {
+	font-family: "Bevan", serif;
+}
+* { 
+	box-sizing: border-box;
+}
+body {
+	margin: 0 auto;
+	padding: 0 20px;
+	min-width: 980px;
+	max-width: 1400px;
+}
