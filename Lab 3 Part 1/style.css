@@ -6,6 +6,12 @@ body {
   font: 1.2em / 1.5 system-ui;
   padding: 20px;
   width: 500px;
-  background-color #efefefef;
+  background-color: #efefefef;
   margin: 0 auto;
+}
+
+h1 {
+	color: darkslategray;
+	boarder-bottom: 10px dotted purple;
+	font-size: 2rem;
 }
