@@ -49,4 +49,9 @@ nav a {
 	gap: 5px;
 	grid-template-columns: 1fr 1fr;
 }
+.feature {
+	width: 200px;
+	float: left;
+	margin: 8px 30px 20px 0;
+}
 
